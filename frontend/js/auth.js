@@ -1,6 +1,6 @@
 // Base URL for all API requests
 // In production, change this to your live domain e.g. 'https://yoursite.com/api'
-const API_URL = "https://two-19zz.onrender.com/api/users/login"
+const API_URL = "https://two-19zz.onrender.com/api/"
 
 // ===== REGISTER =====
 // Grab the register form — will be null on the login page so we check before using it
