@@ -26,6 +26,7 @@ if (registerForm) {
 
       // Parse the JSON response body from the server
       const data = await res.json()
+      console.log("LOGIN DATA:", data)
 
       if (!res.ok) {
         // res.ok is false when the status is 4xx or 5xx
