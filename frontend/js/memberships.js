@@ -1,4 +1,4 @@
-const API_URL = "https://two-19zz.onrender.com/api/"
+const API_URL = "https://two-19zz.onrender.com/api"
 
 const token = localStorage.getItem('token')
 
