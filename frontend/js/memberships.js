@@ -1,4 +1,4 @@
-const API_URL = fetch("https://two-19zz.onrender.com/api/users/login")
+const API_URL = "https://two-19zz.onrender.com/api/users/login"
 
 const token = localStorage.getItem('token')
 
